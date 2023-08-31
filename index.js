@@ -26,7 +26,7 @@ class LinkedList{
 
 //insert first node
 insertNode(data){
-    const 
+   
 }
 
 const n1= new Node(100);
